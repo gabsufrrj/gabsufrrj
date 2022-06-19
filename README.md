@@ -3,9 +3,9 @@
 
 🔭 Possuo conhecimento em FrontEnd e utilizo as seguintes tecnologias:
 
-  HTML | CSS | JavaScript | Jest | ReactJs | Redux |
+  HTML | CSS | JavaScript | Jest | ReactJs | Redux | ContextApi |
 
- 🌱 Hoje estou no módulo de BackEnd aprendendo Docker e MySQL.
+ 🌱 Hoje estou no módulo de BackEnd aprendendo Docker, MySQL e NodeJs.
  
  ## 🧮 GitHub Stats
 
