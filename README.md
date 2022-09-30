@@ -1,11 +1,11 @@
-## 👋 Olá! Me chamo Gabriel e atualmente estou cursando Desenvolvimento Web Full Stack na Trybe. Sou formado em Letras e estou em transição de carreira para a área de tecnologia.
+## 👋 Olá! Me chamo Gabriel e atualmente estou finalizando o curso de Desenvolvimento Web Full Stack na Trybe. Sou formado em Letras e estou em transição de carreira para a área de tecnologia.
 
 
-🔭 Possuo conhecimento em FrontEnd e utilizo as seguintes tecnologias:
+🔭 Possuo conhecimento em front e back-end e desenvolvo com as seguintes tecnologias:
 
-  HTML | CSS | JavaScript | Jest | ReactJs | Redux | ContextApi |
+ HTML | CSS | JavaScript | Git | Jest | React | Redux | Docker | MySQL | TypeScript | Sequelize | SOLID
 
- 🌱 Hoje estou no módulo de BackEnd aprendendo Docker, MySQL e NodeJs.
+ 🌱 Hoje tenho preferências por atuar na área de back-end com Node.Js, utilizando ORM's para o desenvolvimento de API's com modelagem REST e SOLID.
  
  ## 🧮 GitHub Stats
 
