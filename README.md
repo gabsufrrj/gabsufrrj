@@ -1,7 +1,7 @@
 ## 👋 Olá, mundo! 
 
 
-Me chamo Gabriel e atualmente estou finalizando o curso de Desenvolvimento Web Full Stack na Trybe. Sou formado em Letras e estou em transição de carreira para a área de tecnologia.
+Me chamo Gabriel e sou desenvolvedor Web Full Stack formado na Trybe. Sou formado em Letras e estou em transição de carreira para a área de tecnologia.
 
 🔭 Possuo conhecimento em front e back-end e desenvolvo com as seguintes tecnologias:
 
