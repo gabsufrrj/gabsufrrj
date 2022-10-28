@@ -1,7 +1,7 @@
 ## 👋 Olá, mundo! 
 
 
-Me chamo Gabriel e sou desenvolvedor Web Full Stack formado na Trybe. Também sou formado em Letras e atualmente trabalho como Summer (Analista) de Currículo.
+Me chamo Gabriel e sou desenvolvedor Web Full Stack formado na Trybe. Também sou formado em Letras e atualmente trabalho como Summer (Analista) de Currículo, revisando e aprimorando os conteúdos do módulo de Back-end do curso.
 
 🔭 Possuo conhecimento em front e back-end e desenvolvo com as seguintes tecnologias:
 
