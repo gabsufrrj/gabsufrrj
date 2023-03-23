@@ -1,13 +1,15 @@
 ## 👋 Olá, mundo! 
 
 
-Me chamo Gabriel e sou desenvolvedor Web Full Stack formado na Trybe. Também sou formado em Letras e trabalhei como Desenvolvedor Summer de Currículo (Analista) contribuindo com o desenvolvimento do módulo de Back-end do curso.
+Me chamo Gabriel e sou desenvolvedor Web Full Stack formado na Trybe. Também sou formado em Letras e trabalhei como Desenvolvedor Summer de Currículo contribuindo com o desenvolvimento do módulo de Back-end do curso.
 
 🔭 Possuo conhecimento em front e back-end e desenvolvo com as seguintes tecnologias:
 
  HTML | CSS | JavaScript | Git | Jest | React | Redux | Docker | MySQL | TypeScript | Sequelize | Python | Pytest
 
  🌱 Hoje tenho preferências por atuar na área de back-end com Node.Js ou Python, utilizando ORM's para o desenvolvimento de API's com modelagem REST e SOLID.
+ 
+ Atualmente estou aprendendo a desenvolver APi's em JAVA em um curso fornecido pela empresa Minsait. 
  
  ## 🧮 GitHub Stats
 
